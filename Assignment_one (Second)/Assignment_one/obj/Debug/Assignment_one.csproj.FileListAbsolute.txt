@@ -1,0 +1,9 @@
+F:\SE-B\Assignment_one\Assignment_one\bin\Debug\Assignment_one.exe.config
+F:\SE-B\Assignment_one\Assignment_one\bin\Debug\Assignment_one.exe
+F:\SE-B\Assignment_one\Assignment_one\bin\Debug\Assignment_one.pdb
+F:\SE-B\Assignment_one\Assignment_one\obj\Debug\Assignment_one.csprojResolveAssemblyReference.cache
+F:\SE-B\Assignment_one\Assignment_one\obj\Debug\Assignment_one.data_reader.resources
+F:\SE-B\Assignment_one\Assignment_one\obj\Debug\Assignment_one.Properties.Resources.resources
+F:\SE-B\Assignment_one\Assignment_one\obj\Debug\Assignment_one.csproj.GenerateResource.Cache
+F:\SE-B\Assignment_one\Assignment_one\obj\Debug\Assignment_one.exe
+F:\SE-B\Assignment_one\Assignment_one\obj\Debug\Assignment_one.pdb
